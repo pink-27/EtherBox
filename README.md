@@ -17,7 +17,7 @@ To set up the project, follow these steps:
 - Execute the command: npm start
 - Execute the command truffle test to run the tests.
 
-#Usage
+## Usage
 To use the DAPP Dropbox, follow these steps:
 
 Connect to the Ethereum network using MetaMask
